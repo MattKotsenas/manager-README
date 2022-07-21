@@ -10,10 +10,9 @@ I'm looking forward to working with you! This document is not intended to replac
 
 More specifically:
 
-1.  I am here to make sure you are both successful and happy. I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission. I'm a big believer in [servant leadership][servant-leadership].
-2.  I am here to make sure our team is successful and pointed in the right direction. A good metaphor here is  [aligning vectors][aligning-vectors]; I am here to make sure our team is aligned and pushing in the same direction.
-3.  I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us; I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do.
-4.  I write code too!
+1. I make sure you are both successful and happy. I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission. I'm a big believer in [servant leadership][servant-leadership].
+2. I make sure our team is successful and pointed in the right direction. two good metaphors here are [aligning vectors][aligning-vectors] and [stragetic vs tactical][strategic-vs-tactical] thinking; I am here to make sure our team is aligned and pushing in the same direction.
+3. I write code too!
 
 These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, writing code will most likely not be my top priority.
 
@@ -50,8 +49,8 @@ Similarly, if you email or message me outside of my working hours, I may not res
 
 ## If you need something
 
-1.  Message me or set up an impromptu meeting.
-2.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks outside the team from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
+1. Message me or set up an impromptu meeting.
+2. Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks outside the team from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
 
 Even when I work from home you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
@@ -74,6 +73,7 @@ Here are some things I enjoy. If you ever want to strike up casual conversation 
 [original-readme]: https://github.com/molly/manager-README
 [servant-leadership]: https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=4881a901451e
 [aligning-vectors]: https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3
+[strategic-vs-tactical]: https://www.clearpointstrategy.com/strategy-vs-tactics/
 [1-on-1-effective]: https://getlighthouse.com/blog/effective-1-on-1-meetings/
 [1-on-1-awkward]: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
 [squamish-race-report]: https://matt.kotsenas.com/posts/squamish-2017-race-report
