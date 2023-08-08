@@ -41,6 +41,18 @@ These are some interesting articles I've read about one-on-ones, though I don't 
 
 I will give you feedback on how you're doing continuously, including in our one-on-ones. If I'm worried about your performance, I will let you know. My goal is for you to never be unsure about how you're performing (and how I think you're performing). If you ever feel unsure about either of these things, please let me know.
 
+## The way I like to work
+
+I don't like to dictate how anyone works, but in the interest of transparency I do have some biases in how I work day-to-day that are worth sharing.
+
+### Working in the open
+
+Whenever possible I prefer to work in the open. That means using team-wide or public Teams / Slack channels, versus private chats or email. Private communication is more difficult to share and somewhat exclusionary. Similarly, if a change or idea is broadly applicable, contribute it upstream versus keeping it private to our team. There's a time and a place for each, but my default option is to work publicly.
+
+### Collaborate using git and coding tools
+
+I prefer to keep code, docs, designs, and discussions together. That means I prefer to write docs in Markdown and check them into a repo over using Word shared via OneDrive / Dropbox. As engineers, we work daily in git, Markdown, and pull requests for collaboration. If these tools are insufficent for our needs, let's improve the tools rather than bypass them. For instance, if you'd like to add diagrams to your docs, consider tools like [Mermaid][mermaid] which are supported in GitHub, (and partially supported in Azure DevOps). Furthermore, docs that are kept separate from the code tends to rot quickly.
+
 ## After-hours communication
 
 I will try to get a sense of your normal working hours as we begin working together, and I will make a strong effort not to message you outside of these hours because I know many people have notifications sent to their phone. I will sometimes send emails outside of your working hours (especially if we're in different time zones), as emails don't tend to notify people quite as intrusively; you should not feel obligated to respond until you are working. With Teams I tend to use the "schedule message" functionality if I am sending a message outside of your usual working times, since it tends to trigger a notification. If you are receiving after-hours messages from me frequently, please let me know—it may mean I'm misunderstanding the hours you normally work.
@@ -76,6 +88,7 @@ Here are some things I enjoy. If you ever want to strike up casual conversation 
 [strategic-vs-tactical]: https://www.clearpointstrategy.com/strategy-vs-tactics/
 [1-on-1-effective]: https://getlighthouse.com/blog/effective-1-on-1-meetings/
 [1-on-1-awkward]: https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c
+[mermaid]: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 [squamish-race-report]: https://matt.kotsenas.com/posts/squamish-2017-race-report
 [podcasts-catalyst]: https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann
 [podcasts-der-task-force]: https://dertaskforce.com/
