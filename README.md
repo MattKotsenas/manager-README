@@ -11,7 +11,7 @@ I'm looking forward to working with you! This document is not intended to replac
 More specifically:
 
 1. I make sure you are both successful and happy. I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission. I'm a big believer in [servant leadership][servant-leadership].
-2. I make sure our team is successful and pointed in the right direction. two good metaphors here are [aligning vectors][aligning-vectors] and [strategic vs tactical][strategic-vs-tactical] thinking; I am here to make sure our team is aligned and pushing in the same direction.
+2. I make sure our team is successful and pointed in the right direction. Two good metaphors here are [aligning vectors][aligning-vectors] and [strategic vs tactical][strategic-vs-tactical] thinking; I am here to make sure our team is aligned and pushing in the same direction.
 3. I write code too!
 
 These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, writing code will most likely not be my top priority.
