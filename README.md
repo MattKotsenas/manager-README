@@ -51,7 +51,7 @@ Whenever possible I prefer to work in the open. That means using team-wide or pu
 
 ### Collaborate using git and coding tools
 
-I prefer to keep code, docs, designs, and discussions together. That means I prefer to write docs in Markdown and check them into a repo over using Word shared via OneDrive / Dropbox. As engineers, we work daily in git, Markdown, and pull requests for collaboration. If these tools are insufficient for our needs, let's improve the tools rather than bypass them. For instance, if you'd like to add diagrams to your docs, consider tools like [Mermaid][mermaid] which are supported in GitHub, (and partially supported in Azure DevOps). Furthermore, docs that are kept separate from the code tends to rot quickly.
+I prefer to keep code, docs, designs, and discussions together. That means I prefer to write docs in Markdown and check them into a repo over using Word shared via OneDrive / Dropbox. As engineers, we work daily in git, Markdown, and pull requests for collaboration. If these tools are insufficient for our needs, let's improve the tools rather than bypass them. For instance, if you'd like to add diagrams to your docs, consider tools like [Mermaid][mermaid] which are supported in GitHub and Azure DevOps. Furthermore, docs that are kept separate from the code tends to rot quickly.
 
 ## After-hours communication
 
